@@ -1,0 +1,13 @@
+body {
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#floatingTextarea {
+    height: 100px;
+}
+
+#blank-container {
+    height: 150px;
+}
